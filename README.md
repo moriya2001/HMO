@@ -17,3 +17,5 @@ General Description:
 When the system is launched, users can add a new patient by clicking on the "Add Patient" button and filling in the relevant patient details. To add an image for the patient, users can upload an image from their computer and add it as part of the patient's details.
 
 All patients in the database are displayed in a table, with the table showing the patient's name, date of the last check-up, and the start and end dates of treatment for the disease.
+![123](https://github.com/moriya2001/HMO/assets/109893302/5f320f42-bac0-418c-9e59-f27035380eea)
+![1](https://github.com/moriya2001/HMO/assets/109893302/54281513-8590-45a6-96c1-4069b395ce6d)
